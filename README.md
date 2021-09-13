@@ -1,3 +1,3 @@
 # Integra-DA-PHP
 
-Login por medio del directorio activo.
+Login por medio del directorio activo (Windows Server).
